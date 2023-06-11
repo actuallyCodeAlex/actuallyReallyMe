@@ -4,8 +4,8 @@ import { Caveat } from 'next/font/google'
 const caveat = Caveat({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'babbletron-3000',
-  description: '1 tool for creating and managing the babble of work.',
+  title: 'actuallyReally.me',
+  description: 'July 1, 2023',
 }
 
 export default function RootLayout({ children }) {
