@@ -1,0 +1,31 @@
+{
+    "name": "actually-really-me",
+    "description": "www.actuallyReally.me",
+    "version": "0.1.0",
+    "private": true,
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/actuallyCodeAlex/actuallyReallyMe.git"
+    },
+    "author": "Alex Lee",
+    "license": "SEE LICENSE IN LICENSE",
+    "bugs": {
+      "url": "https://github.com/actuallyCodeAlex/actuallyReallyMe/issues"
+    },
+    "homepage": "https://github.com/actuallyCodeAlex/actuallyReallyMe#readme",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "test": "echo !SHOULD RUN AVA / CYPRESS HERE!",
+      "lint": "next lint"
+    },
+    "dependencies": {
+      "eslint": "8.40.0",
+      "eslint-config-next": "13.4.3",
+      "next": "13.4.3",
+      "react": "18.2.0",
+      "react-dom": "18.2.0"
+    }
+  }
+  
